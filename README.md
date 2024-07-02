@@ -30,9 +30,6 @@
 
 #### Toggle Handle `span`
 
-html
-
-Copy code
 
 ```jsx
 <span     className={`inline-block h-6 w-6 bg-white rounded-full transition-transform ${         enabled ? 'translate-x-8' : 'translate-x-0'     }`} />``
